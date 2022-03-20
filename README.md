@@ -26,10 +26,7 @@ Efeito Parallax em HTML com movimento do mouse.
 </p>
 
 #
-### Autor:
- - ######  Denilson Fabiano de Araujo
-#
-### Creditos:
+### AUTOR:
  - ######  Denilson Fabiano de Araujo
 #
 ### ALGUNS LINKS:
