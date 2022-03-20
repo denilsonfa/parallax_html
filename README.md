@@ -22,7 +22,7 @@ Efeito Parallax em HTML com movimento do mouse.
 #
 
 <p align="center">
-  <img src="https://github.com/denilsonfa/java_windowbuilder/blob/main/src/images/Image%20009.png?raw=true" width="350" title="hover text">
+  <img src="https://github.com/denilsonfa/parallax_html/raw/main/gif_parallax.gif" width="350" title="hover text">
 </p>
 
 #
