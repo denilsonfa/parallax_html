@@ -26,8 +26,6 @@ Efeito Parallax em HTML com movimento do mouse.
 </p>
 
 #
-###### Sendo assim, a ideia do aplicativo mobile, é facilitar a criação da lista de compras, podendo se organizar mais, auxiliando-o. Assim, com o desenvolvimento desta aplicação, os desenvolvedores puderam implementar os conhecimentos adquiridos durando o período acadêmico, além de adquirir novas experiências e técnicas. Além de que o usuário, ao utilizar esta aplicação irá perceber que em meio a dificuldades ocorridas durante as compras, uma simples aplicação irá estabelecer em sua rotina uma grande facilidade durante a utilização, além de teoricamente ajudá-lo a gerenciar suas economias.
-#
 ### Autor:
  - ######  Denilson Fabiano de Araujo
 #
