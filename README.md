@@ -17,7 +17,7 @@ Efeito Parallax em HTML com movimento do mouse.
 #
 ### SOBRE
 ###### Repositorio referenta ao elementos PARALLAX presente no site de portfólio *DENILSONfa.CF*
-###### Parallax ou Paralaxe é a diferença na posição aparente de um objeto em relação a um plano de fundo, tal como visto por observadores em locais distintos ou por um observador em movimento. Em astronomia, a paralaxe estelar é utilizada para medir a distância das estrelas utilizando o movimento da Terra em sua órbita. (Wikipédia).
+###### Parallax ou Paralaxe é a diferença na posição aparente de um objeto em relação a um plano de fundo, tal como visto por observadores em locais distintos ou por um observador em movimento (Wikipédia).
 ###### Desta forma, este elemento estará presente no site destinado para portifo e contatos. Sendo um elemento visual muito presente em diversos sites, entretanto, presente de forma discreta no site. Como pode-se observar na ilustração abaixo:
 #
 
