@@ -1,6 +1,3 @@
-# 
-Efeito Parallax em HTML com movimento do mouse.
-
 
 # parallax_html
 ##### Projeto: DENILSONfa.CF - Portfólio
@@ -17,7 +14,7 @@ Efeito Parallax em HTML com movimento do mouse.
 #
 ### SOBRE
 ###### Repositorio referenta ao elementos PARALLAX presente no site de portfólio *DENILSONfa.CF*
-###### Parallax ou Paralaxe é a diferença na posição aparente de um objeto em relação a um plano de fundo, tal como visto por observadores em locais distintos ou por um observador em movimento (Wikipédia).
+###### Efeito Parallax em HTML com movimento do mouse. O Parallax ou Paralaxe é a diferença na posição aparente de um objeto em relação a um plano de fundo, tal como visto por observadores em locais distintos ou por um observador em movimento (Wikipédia).
 ###### Desta forma, este elemento estará presente no site destinado para portifo e contatos. Sendo um elemento visual muito presente em diversos sites, entretanto, presente de forma discreta no site. Como pode-se observar na ilustração abaixo:
 #
 
